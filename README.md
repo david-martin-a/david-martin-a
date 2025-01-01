@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 Using this github account primarily for coursework related to edX course CS50 Python.
 
-But also webmaster for the outdoor activity club Hors Sentiers, build using Joomla/PHP/MariaDB/Javascript.
+But also webmaster for the outdoor activity club [Hors Sentiers](https://www.horssentiers.ca), build using Joomla/PHP/MariaDB/Javascript.
 
 Also interested in Genealogy, with a particular interest in French Canadian heritage, ancestors from Nouvelle-France and Acadie
